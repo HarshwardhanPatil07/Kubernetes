@@ -101,7 +101,6 @@ vim nginx-deployment.yaml
 ```bash
 kubectl delete deployment mongo-deployment
 ```
-
 ---
 
 ## Detailed Command Explanations
